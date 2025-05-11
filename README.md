@@ -9,6 +9,7 @@ This repository includes PoC exploits for vulnerabilities in Windows drivers, sh
 | ------------- | ------ |
 | Windows Kernel Streaming Elevation of Privilege Vulnerability| [CVE-2024-35250](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35250) |
 | Windows Kernel Streaming Elevation of Privilege Vulnerability| [CVE-2024-30084](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30084) |
+| Microsoft Streaming Service Elevation of Privilege Vulnerability| [CVE-2024-30090](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30090) |
 | Windows Hyper-V NT Kernel Integration VSP Elevation of Privilege Vulnerability| [CVE-2025-21333](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21333) |
 
 ## Disclaimer
