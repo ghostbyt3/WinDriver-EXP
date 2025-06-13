@@ -5,14 +5,15 @@ This repository includes PoC exploits for vulnerabilities in Windows drivers, sh
 
 ## POCs
 
-| Vulnerability | CVE ID |
-| ------------- | ------ |
-| Windows Kernel Elevation of Privilege Vulnerability | [CVE-2024-21338](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21338) |
-| Windows Kernel Streaming Elevation of Privilege Vulnerability| [CVE-2024-30084](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30084) |
-| Microsoft Streaming Service Elevation of Privilege Vulnerability| [CVE-2024-30090](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30090) |
-| Windows Kernel Information Disclosure Vulnerability | [CVE-2024-38041](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38041) |
-| Windows Kernel Streaming Elevation of Privilege Vulnerability| [CVE-2024-35250](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35250) |
-| Windows Hyper-V NT Kernel Integration VSP Elevation of Privilege Vulnerability| [CVE-2025-21333](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21333) |
+| Vulnerability | CVE ID | Component(s) |
+| ------------- | ------ | ------ | 
+| Windows Kernel Elevation of Privilege Vulnerability | [CVE-2024-21338](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21338) | appid.sys |
+| Windows Kernel Streaming Elevation of Privilege Vulnerability| [CVE-2024-30084](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30084) | ks.sys |
+| Microsoft Streaming Service Elevation of Privilege Vulnerability| [CVE-2024-30090](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30090) | ks.sys & ksthunk.sys |
+| Windows Kernel Information Disclosure Vulnerability | [CVE-2024-38041](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38041) | appid.sys |
+| Windows Kernel Streaming Elevation of Privilege Vulnerability| [CVE-2024-35250](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35250) | ks.sys |
+| Windows Common Log File System Driver Elevation of Privilege Vulnerability | [CVE-2024-49138](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49138) | clfs.sys | 
+| Windows Hyper-V NT Kernel Integration VSP Elevation of Privilege Vulnerability| [CVE-2025-21333](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21333) | vkrnlintvsp.sys |
 
 ## Disclaimer
 
