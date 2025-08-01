@@ -12,6 +12,7 @@ This repository includes PoC exploits for vulnerabilities in Windows drivers, sh
 | Microsoft Streaming Service Elevation of Privilege Vulnerability| [CVE-2024-30090](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30090) | ks.sys & ksthunk.sys |
 | Windows Kernel Information Disclosure Vulnerability | [CVE-2024-38041](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38041) | appid.sys |
 | Windows Kernel Streaming Elevation of Privilege Vulnerability| [CVE-2024-35250](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35250) | ks.sys |
+| Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability| [CVE-2024-30085](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30085) | cldflt.sys |
 | Windows Common Log File System Driver Elevation of Privilege Vulnerability | [CVE-2024-49138](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49138) | clfs.sys | 
 | Windows Hyper-V NT Kernel Integration VSP Elevation of Privilege Vulnerability| [CVE-2025-21333](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21333) | vkrnlintvsp.sys |
 
